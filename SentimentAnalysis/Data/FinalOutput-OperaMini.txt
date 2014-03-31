@@ -1,0 +1,188 @@
+﻿Secret Sauce metrics for operamini:
+Average rating: 0.898611111111
+('update', 'updated', 'updates', 'updating')
+		'using in samsung ace 5830 good speed but lacking some features like page save and private browsing etc hope the developers would never mind to include in next update '
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'horrible i have used this browser for years and loved it but since last update its horrible slow and can no longer download some videos'
+		'want major update EXCLAMATION '
+	40 reviews, 0.46875 avg, -0.0145043021485 min, 0.000489079879248 max
+('bad', 'big', 'bigger', 'worst')
+		'gud gud app for surfing net bt worst fr dwnlding big files so ill give it 3 stars '
+		'good so not bad'
+		'cool bad app ut fforce close'
+		'nt bad lots of err '
+	67 reviews, 0.570895522388 avg, -0.00903977317583 min, 0.00238869556235 max
+('sentence', 'time', 'times')
+		'slow and unresponsive im not impressed with this app ill put in a web address and ill have to click go twice or three times before it responds then it doesnt load fast enough and what happened to my home page where i can have quick access to things i like i rather use chrome '
+		'good tow time at the days'
+		'it is a better app it can be more effective if it dont calculate font data all the time'
+		'cloud download someone with limited data plan might be want to save their want to download files for another time '
+	71 reviews, 0.598591549296 avg, -0.00646739287484 min, -0.000888539683047 max
+('instal', 'install', 'installed', 'installing', 'installs')
+		'dont work its stop on the installation page on the first and it never work and always say it cant download or it cant find a way to install please fix it i try it on note 1 2 and galaxy s3 and on my nexus 7 2013 running aosp roms on all of them'
+		'opera mini so far good cant rate yet just installed sorry EXCLAMATION but i will rate it above regardless '
+		'not installed the opera mini gathers information about your fonts this may take a few minute how can i fix this '
+		'cant install EMOTICONwry why my opera wont install it made some system folders and now i cant install opera again EMOTICONwry please solve this problem '
+	29 reviews, 0.491379310345 avg, -0.0124108164753 min, 0.00343153394357 max
+('face', 'font', 'fonts')
+		'good but not better this browser is good but not better because devnagrik font is not work '
+		'it is a better app it can be more effective if it dont calculate font data all the time'
+		'not installed the opera mini gathers information about your fonts this may take a few minute how can i fix this '
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+	26 reviews, 0.509615384615 avg, -0.00765291071397 min, 0.00229085582816 max
+('cover', 'screen', 'screens')
+		'cannot open always on white screen cannot open at all always on white screen please fix this love this until now'
+		'excellent but it is better to improve while using fb to direct changes like changing cover pic etc improve browsing of fb but good app'
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'not so good downloading always fails when screen goes out'
+	22 reviews, 0.5 avg, -0.00940701255666 min, 0.000864620467347 max
+('problem', 'problems', 'trouble')
+		'problem not excellent because it does somr problem while downloading '
+		'little problem all is good but browser have some problem when i minimize the browse'
+		'very fast better organization than other browsers it is a good browser but has experienced problems connecting to wifi while other browsers have no problem stopped and restarted app but no change '
+		'i click on one link but opera leads me to another fix it it sometime crushes problem '
+	48 reviews, 0.619791666667 avg, -0.00171315073897 min, 0.000466813012962 max
+('screen', 'screens', 'sort')
+		'cannot open always on white screen cannot open at all always on white screen please fix this love this until now'
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'problems and shortcomings opera plz add the option to save the saved pages in cloud storage that we can view in opera browser for desktop also plz sort out the bug of downloading failure n error in the webpage'
+		'not so good downloading always fails when screen goes out'
+	23 reviews, 0.521739130435 avg, -0.00940701255666 min, 0.00125812211699 max
+('open', 'opened', 'opening', 'opens', 'spread')
+		'cannot open always on white screen cannot open at all always on white screen please fix this love this until now'
+		'open source server access though meant for the above average computer user this is an excellent browser with potential for more comes with options and features for the user to customize and manipulate his her browser experience '
+		'kool app awesome mobile browser but nowdays whenever i open a tab it shows connection failed and i have to wait for short time fix it plz'
+		'lightning speed its a very fast mobile browser that i had ever seen for opening of pages and reading of pages its very useful but for downloading of content its not that much effective '
+	51 reviews, 0.632352941176 avg, -0.0026387010502 min, 0.00328689557644 max
+('screen', 'screens', 'tested')
+		'cannot open always on white screen cannot open at all always on white screen please fix this love this until now'
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'not so good downloading always fails when screen goes out'
+		'worlds better than my phones default browser ive only been using opera with my samsung galaxy a short while but im really enjoying the speed and reliability its nice to be able to browse without those annoying delays and screen jumps i experienced with my default browser '
+	22 reviews, 0.522727272727 avg, -0.00940701255666 min, 0.00115584628869 max
+
+Positive metrics for operamini:
+Average rating: 0.898611111111
+('good', 'goods')
+		'not very good it is good but not very good'
+		'very great browser it is very good to have such good speedy download opera browser it is very good n easy to use '
+		'good good its to good'
+		'good i am very happy with this app it is good and excellent app this app is so good i think you are enjoy this app EMOTICONsmile'
+	1147 reviews, 0.890148212729 avg, 0.00140097010859 min, 0.775098213373 max
+('best', 'better', 'effective', 'good')
+		'the best EXCLAMATION sofar this the best app brower maybe there is someting can be upgrade so far this the best EXCLAMATION '
+		'good best better than chrome '
+		'its easy to use and best for downloading i have used various browsers like uc browser dolphin browser and safari browser this browser is better than those not just because the interface is simple and conveniant to use but also that its downloading speed is much better than the chrome browser '
+		'practically good i can boldfully say that you people are putting up ur best and i must say that your best is great ride on'
+	1723 reviews, 0.907283807313 avg, 0.00834638799255 min, 0.775098213373 max
+('best', 'better', 'full', 'good')
+		'the best EXCLAMATION sofar this the best app brower maybe there is someting can be upgrade so far this the best EXCLAMATION '
+		'good best better than chrome '
+		'its easy to use and best for downloading i have used various browsers like uc browser dolphin browser and safari browser this browser is better than those not just because the interface is simple and conveniant to use but also that its downloading speed is much better than the chrome browser '
+		'practically good i can boldfully say that you people are putting up ur best and i must say that your best is great ride on'
+	1724 reviews, 0.906902552204 avg, 0.00573902361498 min, 0.775098213373 max
+('best', 'better', 'dear', 'good')
+		'the best EXCLAMATION sofar this the best app brower maybe there is someting can be upgrade so far this the best EXCLAMATION '
+		'good best better than chrome '
+		'its easy to use and best for downloading i have used various browsers like uc browser dolphin browser and safari browser this browser is better than those not just because the interface is simple and conveniant to use but also that its downloading speed is much better than the chrome browser '
+		'practically good i can boldfully say that you people are putting up ur best and i must say that your best is great ride on'
+	1718 reviews, 0.907305005821 avg, 0.00305403674012 min, 0.775098213373 max
+('EXCLAMATION',)
+		'samsung galaxy tab3 10 1 gt p5210 fastest browser i can find and smallest too EXCLAMATION 0 9mb EXCLAMATION just like on my blackberry curve 8520 opera mini is the best EXCLAMATION gas met die zooi EXCLAMATION '
+		'good EXCLAMATION fast and easy EXCLAMATION great app EXCLAMATION '
+		'excellent EXCLAMATION i really love it EXCLAMATION so fast than using an apps especially facebook EXCLAMATION \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5'
+		'amazing EXCLAMATION sooo much better than the standard internet explorer on my kyocera easy to use and its quick EXCLAMATION thank you EXCLAMATION '
+	364 reviews, 0.925137362637 avg, 0.30543412406 min, 0.30543412406 max
+('browser', 'browsers')
+		'its easy to use and best for downloading i have used various browsers like uc browser dolphin browser and safari browser this browser is better than those not just because the interface is simple and conveniant to use but also that its downloading speed is much better than the chrome browser '
+		'perfect browser dis iz one of the perfect works in dis world but dis browser is not good for downloading but for browsing dis is a perfect browser super smooth super responsive super fast super browser dis is my first love im using dis browser since 4 years '
+		'fastest even faster then light p this is the fastest browser among all available browsers sorry wait wait this is fastest not among android browsers but every oss browser kneels in front of this browser '
+		'fantastic browser ever than other EXCLAMATION this is a smooth eye catching entertaining and most friendly browser than other browser ever bookmark list is so cool with nice adv iv used this browser even in java and that was good also cool application from asa thank you EXCLAMATION EMOTICONsmile'
+	882 reviews, 0.916950113379 avg, 0.0293290727444 min, 0.58870628089 max
+('excellent', 'splendid')
+		'excellent excellent'
+		'excellent it says it all excellent'
+		'excellent excellent browser for mobile'
+		'excellent a excellent browser for android '
+	462 reviews, 0.971861471861 avg, 0.00138733031264 min, 0.454674941265 max
+('best', 'bests')
+		'the best EXCLAMATION sofar this the best app brower maybe there is someting can be upgrade so far this the best EXCLAMATION '
+		'very niceapp best best best browser'
+		'samsung trend even i can pay for this browser best of bests m superior'
+		'best browser for anaroid i am greatly impressed by the speed of opera mini which it serves as because it have excellent speed in surfing opera mini 7 5 is the best browser i recomend to use for anaroid phone for its surepb speed i recomend all the user to use opera mini you will not be sorry i promise'
+	546 reviews, 0.954212454212 avg, 0.00113011982789 min, 0.464453973202 max
+('best', 'better', 'good', 'safest', 'secure')
+		'the best EXCLAMATION sofar this the best app brower maybe there is someting can be upgrade so far this the best EXCLAMATION '
+		'good best better than chrome '
+		'its easy to use and best for downloading i have used various browsers like uc browser dolphin browser and safari browser this browser is better than those not just because the interface is simple and conveniant to use but also that its downloading speed is much better than the chrome browser '
+		'practically good i can boldfully say that you people are putting up ur best and i must say that your best is great ride on'
+	1719 reviews, 0.90735892961 avg, 0.00128877843985 min, 0.775098213373 max
+('opera',)
+		'im back opera mini is awesome i always used to use it i got a new phone and just didnt use internt net as much as i use to so when i dis i juat normal my normal web browser or the google chrome but they are no where near as fast as opera mini i use internat alot more sooo im back to opera mini opera all the way woo woo'
+		'best browser for anaroid i am greatly impressed by the speed of opera mini which it serves as because it have excellent speed in surfing opera mini 7 5 is the best browser i recomend to use for anaroid phone for its surepb speed i recomend all the user to use opera mini you will not be sorry i promise'
+		'x i love opera and on my laptop i have opera and opera next'
+		'zte awe is working good and it saves data better than crome and the regular browser love this app opera mini rules no wonder when i call my company of phone they say to not use opera mini they just want my data to go by fast so i can keep buying data packages no way we the people needs to find the way to save up data opera mini those that saves data EMOTICONsmile'
+	364 reviews, 0.90728021978 avg, 0.259363369729 min, 0.259363369729 max
+
+Negative metrics for operamini:
+Average rating: 0.898611111111
+('installation', 'installing')
+		'stuck on installing the screen freezes on installing but its not moving i tried re installing a hundred times EXCLAMATION but nothing '
+		'not working galaxy grand when i download and install properly but after then while opening it says installing ans a bar shows but nochanges in that bar the installation not completing please solve this issue'
+		'error not letting me instal it hangs on installing page '
+		'facing problems now samsung galaxy mini s5570 samsung galaxy mini s5570 not installing properly on starting home screen hanging so on so very bad updates '
+	11 reviews, 0.227272727273 avg, -0.0124108164753 min, -0.000402399205441 max
+('update', 'updated', 'updates', 'updating')
+		'using in samsung ace 5830 good speed but lacking some features like page save and private browsing etc hope the developers would never mind to include in next update '
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'horrible i have used this browser for years and loved it but since last update its horrible slow and can no longer download some videos'
+		'want major update EXCLAMATION '
+	40 reviews, 0.46875 avg, -0.0145043021485 min, 0.000489079879248 max
+('link', 'links', 'nexus')
+		'great big problem most of the time i click a link onscreen it just refreshes the page i need to open new tab to access links its really annoying apart from that its fast easy user friendly great app for xperia play'
+		'i click on one link but opera leads me to another fix it it sometime crushes problem '
+		'dont work its stop on the installation page on the first and it never work and always say it cant download or it cant find a way to install please fix it i try it on note 1 2 and galaxy s3 and on my nexus 7 2013 running aosp roms on all of them'
+		'perfect but cannot open the correct links'
+	16 reviews, 0.46875 avg, -0.00607298002474 min, 0.000668352557451 max
+('contact', 'link', 'links')
+		'great big problem most of the time i click a link onscreen it just refreshes the page i need to open new tab to access links its really annoying apart from that its fast easy user friendly great app for xperia play'
+		'i click on one link but opera leads me to another fix it it sometime crushes problem '
+		'perfect but cannot open the correct links'
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+	12 reviews, 0.479166666667 avg, -0.00607298002474 min, 0.000668352557451 max
+('hang', 'hanged', 'hanging', 'hangs')
+		'update bring crash crash crash new version is not good it closed many time and then start when i use my phone is hang and thenafter automaticall exit the last version 7 5 2 is much much better then this'
+		'better most of the tym error n it hangs kindly make correction of it EXCLAMATION '
+		'very good nice one compare to other browser but when access fast it hangs'
+		'hangs all the time hangs 100 times a day fucking irrtating '
+	16 reviews, 0.484375 avg, -0.00330813085493 min, 0.0022320650933 max
+('instal', 'install', 'installed', 'installing', 'installs')
+		'dont work its stop on the installation page on the first and it never work and always say it cant download or it cant find a way to install please fix it i try it on note 1 2 and galaxy s3 and on my nexus 7 2013 running aosp roms on all of them'
+		'opera mini so far good cant rate yet just installed sorry EXCLAMATION but i will rate it above regardless '
+		'not installed the opera mini gathers information about your fonts this may take a few minute how can i fix this '
+		'cant install EMOTICONwry why my opera wont install it made some system folders and now i cant install opera again EMOTICONwry please solve this problem '
+	29 reviews, 0.491379310345 avg, -0.0124108164753 min, 0.00343153394357 max
+('cover', 'screen', 'screens')
+		'cannot open always on white screen cannot open at all always on white screen please fix this love this until now'
+		'excellent but it is better to improve while using fb to direct changes like changing cover pic etc improve browsing of fb but good app'
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+		'not so good downloading always fails when screen goes out'
+	22 reviews, 0.5 avg, -0.00940701255666 min, 0.000864620467347 max
+('poor',)
+		'vast very poor speed and problematic working'
+		'poor poor support for new features '
+		'good 1st this browser helps 2g user bcz in poor connection orther browser perform good but slow but in opera it is fast '
+		'looks very poor on nexus 10'
+	15 reviews, 0.5 avg, -0.0023457599905 min, -0.0023457599905 max
+('close', 'closes', 'finish')
+		'qmobile noir a8 some it auto close fix this EXCLAMATION '
+		'cool bad app ut fforce close'
+		'force close it force close many times and doesnt start after force close unless switched off of phone'
+		'vibrate force close ace vibrates and force close on galaxy ace plus armv 7 '
+	11 reviews, 0.5 avg, -0.00439365403576 min, 0.000514027297434 max
+('face', 'font', 'fonts')
+		'good but not better this browser is good but not better because devnagrik font is not work '
+		'it is a better app it can be more effective if it dont calculate font data all the time'
+		'not installed the opera mini gathers information about your fonts this may take a few minute how can i fix this '
+		'slow font data calculation very slow modify browser important features 1 bookmark contact synchronized 2 update 3 user feedback 4 night mode 5 screen mode 6 thems 7 refresh 8 brightness control 9 scrolling 10 instant help 11 cut 12 copy 13 paste 14 more share option 15 page save downloadas a pdf doc 16 speed up support 17 user agent 18 taxt wrapping 19 webpage translation options 20 browser extensions 21 sonar 22 gusture 23 homepage set up 24 developer tools 25 modification tools mode'
+	26 reviews, 0.509615384615 avg, -0.00765291071397 min, 0.00229085582816 max

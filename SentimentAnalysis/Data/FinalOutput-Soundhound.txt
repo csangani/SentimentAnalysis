@@ -1,0 +1,188 @@
+﻿Secret Sauce metrics for soundhound:
+Average rating: 0.755611111111
+('realise', 'realized', 'recognise', 'recognised', 'recognises', 'recognising', 'recognize', 'recognized', 'recognizes', 'recognizing')
+		'not bad EXCLAMATION it easily recognises several english songs and have its lyrics displayed but no indian songs were recognised shazam is better in that sense the live lyrics tool is literally superb '
+		'lately its been letting me down lately sound hound hasnt been able to recognize a lot of songs ive been hearing i thought it might just be me or my phone but shazam recognized some of them its newer music this happens to but until the last few months ive never had an issue'
+		'gettin poor recognized every song in the beginning now it hasnt recognized anything past 6 tries all mainstream almost uninstall material'
+		'overrated false advertising a mediocre app that doesnt do all that its developers boast of pros it will recognize a song being played quickly cons it absolutely doesnt recognize tune being sung or hummed to check accuracy of song recognition in a noisy crowded space '
+	283 reviews, 0.450530035336 avg, -0.032641969921 min, 0.00234116083298 max
+('distinguish', 'distinguishing', 'recognise', 'recognised', 'recognises', 'recognising', 'recognize', 'recognized', 'recognizes', 'recognizing', 'spot')
+		'not bad EXCLAMATION it easily recognises several english songs and have its lyrics displayed but no indian songs were recognised shazam is better in that sense the live lyrics tool is literally superb '
+		'lately its been letting me down lately sound hound hasnt been able to recognize a lot of songs ive been hearing i thought it might just be me or my phone but shazam recognized some of them its newer music this happens to but until the last few months ive never had an issue'
+		'gettin poor recognized every song in the beginning now it hasnt recognized anything past 6 tries all mainstream almost uninstall material'
+		'overrated false advertising a mediocre app that doesnt do all that its developers boast of pros it will recognize a song being played quickly cons it absolutely doesnt recognize tune being sung or hummed to check accuracy of song recognition in a noisy crowded space '
+	288 reviews, 0.461805555556 avg, -0.032641969921 min, 0.00234116083298 max
+('knew', 'knowing', 'recognise', 'recognised', 'recognises', 'recognising', 'recognize', 'recognized', 'recognizes', 'recognizing')
+		'not bad EXCLAMATION it easily recognises several english songs and have its lyrics displayed but no indian songs were recognised shazam is better in that sense the live lyrics tool is literally superb '
+		'lately its been letting me down lately sound hound hasnt been able to recognize a lot of songs ive been hearing i thought it might just be me or my phone but shazam recognized some of them its newer music this happens to but until the last few months ive never had an issue'
+		'gettin poor recognized every song in the beginning now it hasnt recognized anything past 6 tries all mainstream almost uninstall material'
+		'overrated false advertising a mediocre app that doesnt do all that its developers boast of pros it will recognize a song being played quickly cons it absolutely doesnt recognize tune being sung or hummed to check accuracy of song recognition in a noisy crowded space '
+	301 reviews, 0.474252491694 avg, -0.032641969921 min, 0.00457049491147 max
+('update', 'updated', 'updates', 'updating')
+		'good but since my last update can no longer play the songs unlimited times for free like i use to ok for links to lyrics galaxy s3 android good for identifying a song most of the time but why cant i play the songs for free more than once preview like i could before last update '
+		'updates its ok at all i cant find new songs plz update more recently '
+		'last update was really digging this app and about to upgrade to pro version until the last update EXCLAMATION not sure what happened but not finding near as many songs will see what happens on the next one and lay out the 6 bucks i would like the option of adding songs to wish list on my itunes yes i am on an android but have used itunes for so many years not really going to get off of that now that i have apple ipod and macbook but limiting to itunes to the ios seems goofy to me how about the option for that in the next version i hope the next version has me cough up my dough i do like the app though to know what my kids are listening to '
+		'replaced widget with ads EXCLAMATION i found the widget and updated to 3 stars '
+	184 reviews, 0.423913043478 avg, -0.0245469565416 min, -0.00247731462596 max
+('call', 'calls', 'song', 'songs')
+		'shazam is better i personally think that this app only knows the radio singles and popular songs that u already know the name of shazam knows songs that are on mixtapes and albums and brand knew songs that just came out it knows every song i gave this app 3 stars only because u can hum and sing songs tht is the only thing you can not do on shazam but shazam is much more worth ur download spacing'
+		'great backup i dld this app cuz shazam missed a song a friend suggested this i put them head to head through 50 songs on my itunes result shazam 43 50 sh 36 50 interestingly though they didnt miss the same songs once conclusion a great backup to the superior shazam for now devs add more songs to the database and take over top seat EXCLAMATION make the payed version worth having '
+		'good for well known songs i was very impressed at first this app is great for knowing songs on the radio but if its a lesser known song or a theme to a movie or tv show or a song in a language other than english forget about it '
+		'great app buuut would really love if after finding the song it would pull a list of all possible options to purchase the song album video from all possible vendors amazon google play soundcloud etc oh EXCLAMATION and it i would totally pay for a pro version that would also pull up a list of mixes live unplugged explicit versions of the song one more idea i would also pay for a proversion that sampled all the music installed on my device and search for missing incorrect song album info art id3 tags etc and ask me if i want to add '
+	1119 reviews, 0.623771224307 avg, -0.00260862080853 min, 0.0767421696396 max
+('song', 'songs', 'sung')
+		'shazam is better i personally think that this app only knows the radio singles and popular songs that u already know the name of shazam knows songs that are on mixtapes and albums and brand knew songs that just came out it knows every song i gave this app 3 stars only because u can hum and sing songs tht is the only thing you can not do on shazam but shazam is much more worth ur download spacing'
+		'good for well known songs i was very impressed at first this app is great for knowing songs on the radio but if its a lesser known song or a theme to a movie or tv show or a song in a language other than english forget about it '
+		'great app buuut would really love if after finding the song it would pull a list of all possible options to purchase the song album video from all possible vendors amazon google play soundcloud etc oh EXCLAMATION and it i would totally pay for a pro version that would also pull up a list of mixes live unplugged explicit versions of the song one more idea i would also pay for a proversion that sampled all the music installed on my device and search for missing incorrect song album info art id3 tags etc and ask me if i want to add '
+		'i love it but it doesnt recognize some stuff like it says no close matches to the newest thompson square song or any capital kings songs i searched capital kings and songs that they have sung with other artists like tobymac come up and im all like what the crap dude really so yeah im ready for it to be updated pleeaassseeee EXCLAMATION '
+	1114 reviews, 0.625224416517 avg, 0.000267751661661 min, 0.0767421696396 max
+('bad', 'big', 'bigger', 'biggest', 'worse', 'worst')
+		'gotten worse i dont know how but thus app has gotten worse it used to be it could find my songs easily now i can search next to anything and it wont find it or it will take forever to find it ill be switching to shazam '
+		'hii bad very bad'
+		'worst really bad app ive ever seen'
+		'not bad EXCLAMATION it easily recognises several english songs and have its lyrics displayed but no indian songs were recognised shazam is better in that sense the live lyrics tool is literally superb '
+	124 reviews, 0.375 avg, -0.0207516332897 min, 0.00160180620131 max
+('bumping', 'chance', 'find', 'finding', 'finds', 'happen', 'happened')
+		'what happened i love the interface of it way better than the other one but what happened to sound hound it just doesnt recognize music like it used to i find myself going to the other one to id music EMOTICONsad'
+		'give indies a chance EXCLAMATION i listen to a lot of indie stations and this app seems to have a 50 50 chance of recognizing the song it is getting better though i use it every day'
+		'wont show up the app is installed but it wont show up on my menu any of my phone searches nothing i tried uninstalling and reinstalling still wont show up anywhere its kinda too much of a hassle to constantly go to the play store to find this app to try and find the title of a song please fix EXCLAMATION thanks EXCLAMATION htc one x'
+		'please add listen now in google play music soundhound please add a listen now in google play music option you used to support spotify and now you feature rdio but people want to make their own decisions i happen to use google play music all access because i like the service more on android since this is an android app it should support googles new music service in my opinion it is the best one available at the moment and spotify is also a great service only supporting rdio is cruel to users who do not want to pay for rdio other than that the app is amazing it typically finds all of my songs whether i am humming them listening to them or whatnot the lyrics that it displays is awesome and is a killer feature the app beats shaaam by miles and is unbelievable this app has a ton of potential and i think that it will increase in popularity but please please add the option to switch listening service the ability to connect this app with my seemingly infinite stash of music from google play music would make this app a five star app it should at least be available for users of soundhound infinity users we payed you in support please listen to us thanks for reading and hope this happens'
+	405 reviews, 0.56975308642 avg, -0.0122399702049 min, 0.00803444036291 max
+('sentence', 'time', 'times')
+		'good but since my last update can no longer play the songs unlimited times for free like i use to ok for links to lyrics galaxy s3 android good for identifying a song most of the time but why cant i play the songs for free more than once preview like i could before last update '
+		'shortcut disappears the id now shortcut disappears every time the phone is restarted not a huge issue but annoying nonetheless the app finds songs about 70 of the time htc evo design'
+		'i like sound hound it wont share most of the time maybe better after this update '
+		'not great i used to love this app until it started failing me all the time for the past 2 weeks this app either tells me the wrong song or claims it doesnt know i have made sure that soundhound clearly hears what im playing with no interferance noises im uninstalling this app its useless '
+	306 reviews, 0.551470588235 avg, -0.00518402872721 min, 0.00201999117768 max
+('detect', 'detected', 'detecting', 'discover', 'discovered', 'discovering', 'find', 'finding', 'finds', 'noticed')
+		'wont show up the app is installed but it wont show up on my menu any of my phone searches nothing i tried uninstalling and reinstalling still wont show up anywhere its kinda too much of a hassle to constantly go to the play store to find this app to try and find the title of a song please fix EXCLAMATION thanks EXCLAMATION htc one x'
+		'was a 4 star app this is the best song tagging app available edit cant find any gospel songs i try to find '
+		'remix detecter i used to use another app to find out which song was playing but now i use sound hound its very good except it only gives me the name of the original song when i tested it out on a couple of remixes it was like it didnt detect that it was a remix \\ the app i used to use did that EXCLAMATION '
+		'shazam is better its okay shazam is much better at finding indie music stuff though uninstalled this one since i dont need both 5 4 4'
+	407 reviews, 0.576781326781 avg, -0.0122399702049 min, 0.00803444036291 max
+
+Positive metrics for soundhound:
+Average rating: 0.755611111111
+('EXCLAMATION',)
+		'amazing EXCLAMATION have only just found this but have been on it all night EXCLAMATION been looking up information lyrics and even tour dates for artists i wanted to give this 5 stars but there are a few glitches when you click on buy it takes you to the american amazon no use if you live in the uk and shows you a load of artists youve never heard of EXCLAMATION you cant even see the artist you are interested in EXCLAMATION get fed up of the title pages displaying artists that i have absolutely no interest in it would be great if it could be customised to your favourite songs and artists also quite a few of the lyrics are wrong tried to sync with facebook and just got a load of error messages so am worried that all my info will be lost when i get a new tablet next month however this app is great fun to use and always amazes me when i attempt to mumble a few lines of a song and it gets it right EXCLAMATION good stuff '
+		'amazing EXCLAMATION i can put it up to the radio and it will find the song and give me live lyrics to read EXCLAMATION i can also sing to it im a terrible singer and it will give me the correct songs EXCLAMATION my only problem is that it doesnt have some songs overall this is an amazing app EXCLAMATION '
+		'soundhound rocks EXCLAMATION i love soundhound EXCLAMATION its really easy to use and helps me cuz im bad at remembering songs EXCLAMATION '
+		'great for song finding not for much else i honestly wish they were more like slacker or iheart an app that listens for the song finds it then plays based off the song EXCLAMATION now that would be a kick assed app EXCLAMATION take notes soundhound EXCLAMATION '
+	1149 reviews, 0.815056570931 avg, 0.350585998287 min, 0.350585998287 max
+('excellent', 'fantabulous')
+		'excellent excellent excellent it found a song of the vampire diaries show that i couldnt have found on the web amezing loving it '
+		'fuxxk excellent this is a fuxxk app it was excellent i never seen a app like this'
+		'excellent excellent app 99 it finds the song correctly EXCLAMATION '
+		'an excellent app EXCLAMATION this app finds popular songs immediately even scrolls along with the relevant lyrics displayed on screen it keeps a log of the songs youve heard as well which i found extremely convenient it has even been able to find some of the more obscure songs ive challenged it with an excellent choice i recommend it above any other EXCLAMATION '
+	207 reviews, 0.985507246377 avg, 0.00126174799901 min, 0.122213635489 max
+('amazing', 'awesome', 'awful')
+		'awesome EXCLAMATION awesome awesome awesomeness EXCLAMATION '
+		'awesome this is an awesome app must download n try it'
+		'amazing EXCLAMATION awesome'
+		'awesome completely awesome loud bar background noises and it still nails it every time lots of fun when your in a group playing music trivia amongst you and your friends'
+	673 reviews, 0.923848439822 avg, -0.00884551920627 min, 0.241183402661 max
+('beloved', 'dear', 'love', 'loves')
+		'love love love this app EXCLAMATION '
+		'\xe2\x99\xa5 100 love love love it'
+		'love it me and my granddaughter just love this hear a song on a movie or otherwise and really like it but dont know what it is w get this out turn it on let it listen to the song and it tells us the name of the sing who is singing it and at times the lyrics just love it'
+		'quick amazing accurate love love love'
+	707 reviews, 0.92927864215 avg, -0.00101888957734 min, 0.334883971712 max
+('scream', 'wow')
+		'wow EXCLAMATION its just wow omg EXCLAMATION what a application y i should give 5 stars i wanna give 100 stars d'
+		'wow EXCLAMATION nothing but great'
+		'useful song artist identifier wow EXCLAMATION very helpful EXCLAMATION '
+		'omg im so upset since the update you erased all my saved songs and you dont operate like you used to it was better before i had so much music wow'
+	44 reviews, 0.988636363636 avg, 0.000564336080605 min, 0.0247096027685 max
+('enjoy', 'love', 'loved', 'loves', 'loving')
+		'love love love this app EXCLAMATION '
+		'\xe2\x99\xa5 100 love love love it'
+		'love it me and my granddaughter just love this hear a song on a movie or otherwise and really like it but dont know what it is w get this out turn it on let it listen to the song and it tells us the name of the sing who is singing it and at times the lyrics just love it'
+		'quick amazing accurate love love love'
+	727 reviews, 0.924346629986 avg, -7.66420237311e-06 min, 0.334883971712 max
+('great', 'greatest', 'outstanding')
+		'great easy to use works great an and looks great amazing app in his class '
+		'best of the best works best in any smartphone i use great great super great apps thanks for the creator team its miracle EXCLAMATION '
+		'great this is a great app to havewhen searching song titles great work EXCLAMATION '
+		'must have app for djs and music lovers i was out one night and a song i had long forgotten was playing i downloaded soundhound it identified the song artist and i had the song downloaded on my phone while it was still playing EXCLAMATION since then i have used it many many times and it has not failed EXCLAMATION the real time lyrics display is also a great feature EXCLAMATION great job developers EXCLAMATION '
+	788 reviews, 0.878489847716 avg, 0.00205637733869 min, 0.306442944193 max
+('capital', 'great', 'greatest')
+		'great easy to use works great an and looks great amazing app in his class '
+		'best of the best works best in any smartphone i use great great super great apps thanks for the creator team its miracle EXCLAMATION '
+		'great this is a great app to havewhen searching song titles great work EXCLAMATION '
+		'must have app for djs and music lovers i was out one night and a song i had long forgotten was playing i downloaded soundhound it identified the song artist and i had the song downloaded on my phone while it was still playing EXCLAMATION since then i have used it many many times and it has not failed EXCLAMATION the real time lyrics display is also a great feature EXCLAMATION great job developers EXCLAMATION '
+	786 reviews, 0.87786259542 avg, 0.000243800561185 min, 0.306442944193 max
+('amazes', 'amazing', 'astonishing', 'astounding')
+		'a nice and amazing app this app is a great thing for searching music and amazing download it and you will see'
+		'amazing its simply amazing EXCLAMATION '
+		'amazing EXCLAMATION such an amazing and easy to learn app'
+		'amazing works 100 of the time just amazing EXCLAMATION '
+	189 reviews, 0.949735449735 avg, 7.84963966367e-05 min, 0.0952222204204 max
+('fantastic', 'grand', 'marvelous', 'terrific', 'tremendous', 'wonderful')
+		'fantastic app i love this app its so handy if u hear a song on tv or in a mates car u can just press the button and soundhound finds the song did loads of searches and only once has it not found a song fantastic app EMOTICONsmile'
+		'terrific app EXCLAMATION now i can find out what the words are to some of those old tunes that ive wondered about for years EXCLAMATION '
+		'really amazing such a wonderful response time great app '
+		'samsung galaxy grand android 4 1 2 working good keep on rollin EXCLAMATION thank you'
+	61 reviews, 0.963114754098 avg, 0.000771964559437 min, 0.0201504465131 max
+
+Negative metrics for soundhound:
+Average rating: 0.755611111111
+('garbage', 'refuses')
+		'garbage this ia garbage i only listen to country an when a new country song comes on i dont know i try using this an it aint ever picked up the song an told me what it is'
+		'garbage complete garbage doesnt work properly will never use again '
+		'junk i dont use it often but when i do it always fails to find the song garbage '
+		'garbage i deleted shazam for this app big disappointment i wasnt able to find several songs played on xm radio went back to shazam'
+	14 reviews, 0.0178571428571 avg, -0.0111834118066 min, -0.000539487417328 max
+('ware', 'waste', 'wasted')
+		'dont waste your time doesnt ever work doesnt work always says search error dont waste your time '
+		'waste doesnt recognize hardly any song i play pop rap or country waste of time '
+		'pre installed on my htc one s wish i could delete this app off my phone since i dont use it taking up wasted space '
+		'waste interface is great but it didnt identify anything for me uninstall'
+	43 reviews, 0.0290697674419 avg, -0.0246671122311 min, -0.00159165488144 max
+('remove', 'removed', 'removing', 'transfers')
+		'removed widget they removed the widget from the free version shady business tactic '
+		'attempted to remove i have removed this app 3 times and its still on phone liked it but dont need anymore '
+		'help how to remove this app i can only update it and open it cant remove uninstall it'
+		'cant remove why do i need this crap on my phone '
+	13 reviews, 0.0769230769231 avg, -0.00626192644814 min, -0.00081370328149 max
+('rubbish', 'trash')
+		'rubbish rubbish'
+		'htc one rubbish'
+		'rubbish EXCLAMATION big waste of space doesnt find reggae or dancehall or any british black artists just the generic pop crap'
+		'soundhound sucks big time EXCLAMATION terrible app EXCLAMATION it doesnt detect songs easily it just keeps saying no search found uninstalling this app EXCLAMATION useless piece of trash EXCLAMATION '
+	18 reviews, 0.0972222222222 avg, -0.0114976169125 min, -0.000370191701803 max
+('draw', 'suck', 'sucked', 'sucking', 'sucks')
+		'sucks sucks sucks'
+		'sucks EXCLAMATION this app sucks EXCLAMATION not a single song was found apparently if its not justin beiber or miley cyrus it wont find anything worthless just plain worthless EXCLAMATION '
+		'sucks sucks'
+		'sucks it doesnt recognize anything it just recognizes lady gaga and justin bieber songs that no one needs to recognize sucks idiot fools trying to make a program with ape minds sorry for making me angry '
+	84 reviews, 0.104166666667 avg, -0.0467497584709 min, 6.73525342951e-05 max
+('pathetic', 'poor', 'wretched')
+		'poor seriously poor it hardly finds any songs on the tv i let this thing listen to a song i was desperate to know what it was 10 times it didnt recognise it so i tried another music app and it found it straight away if you want a good music searcher then get shazam the only good thing i can say about this is the live lyrics which is handy if you dont know lyrics to a certain song but thats it overall pretty poor'
+		'poor results used to be a great app once but sux that too much music isnt in their database yet EXCLAMATION EMOTICONsad has always been poor and no i dont have weird musical taste EXCLAMATION i always find myself having to use shazam instead and that finds it every time EXCLAMATION '
+		'poor poor'
+		'poor data base very poor data base and why u need permisions to see my calls wtf u need that for luky for u that this app came with the phone and i cant uninstall it not good'
+	48 reviews, 0.104166666667 avg, -0.0275148013365 min, 0.000775567085258 max
+('bull', 'bullshit', 'crap', 'shit')
+		'crap crap i dont want on my phone'
+		'crap what a crap app cant find any song with this app '
+		'bull this is bull i try it on some classical music play by a orchestra and it didnt recognize it'
+		'how to uninstall this bullshit app crap production '
+	56 reviews, 0.111607142857 avg, -0.0320221385694 min, -0.000809034463406 max
+('crap', 'poop', 'shit', 'shite')
+		'crap crap i dont want on my phone'
+		'crap what a crap app cant find any song with this app '
+		'crap since update doesnt find anything since last update EXCLAMATION crap EXCLAMATION '
+		'doesnt work on anything other than pop crap barely works only correctly identified 1 out of 14 of my attempts crap '
+	57 reviews, 0.114035087719 avg, -0.0320221385694 min, -0.000391285359459 max
+('poor', 'short')
+		'poor seriously poor it hardly finds any songs on the tv i let this thing listen to a song i was desperate to know what it was 10 times it didnt recognise it so i tried another music app and it found it straight away if you want a good music searcher then get shazam the only good thing i can say about this is the live lyrics which is handy if you dont know lyrics to a certain song but thats it overall pretty poor'
+		'poor results used to be a great app once but sux that too much music isnt in their database yet EXCLAMATION EMOTICONsad has always been poor and no i dont have weird musical taste EXCLAMATION i always find myself having to use shazam instead and that finds it every time EXCLAMATION '
+		'poor poor'
+		'poor data base very poor data base and why u need permisions to see my calls wtf u need that for luky for u that this app came with the phone and i cant uninstall it not good'
+	47 reviews, 0.127659574468 avg, -0.0275148013365 min, 0.000429485564624 max
+('useless',)
+		'useless for anything edm electronic club music etc this app is designed well and i havent ever run into any crashes fcs etc but for me thats about where the pros end if youre trying to find anything thats edm electro house club dance dubstep or similarly related this app is useless and im not talking about new or obscure remixes either this app cant even recognize non remixed original versions of well known edm tracks that receive national radio airplay this in turn makes soundhound useless for someone like me '
+		'next to useless if there is enough information about a tune for soundhound i can usually find it faster without it and if i cant find it sh cant too also there seems to be very little in the database beyond pop overall a lousy trade for the private info sh can syphon off '
+		'useless app nthng every thing is paid in the sound hound waiste '
+		'limited this app consistently fails to identify anything that isnt popular or best selling older tunes maybe but try to identify that song at x xx in a youtube video the main reason i used this app and it will fail useless to me but there it is '
+	48 reviews, 0.140625 avg, -0.0255806588659 min, -0.0255806588659 max

@@ -1,0 +1,188 @@
+﻿Secret Sauce metrics for jewels:
+Average rating: 0.763
+('close', 'closed', 'closes', 'closing', 'shut', 'shuts', 'shutting')
+		'keeps closing on me good game when it works but keeps closing on me uninstall'
+		'force closes more and more shame as it was my favourite of jewels games EXCLAMATION '
+		'after the last update the app is not working anymore force closing straight after i tapped on the icon so i only give 2 stars now pls fix '
+		'fun when opens since jellybean update when i dont exit game properly which i never did before i cant reopen the game without shutting down my phone '
+	190 reviews, 0.357894736842 avg, -0.0375299403389 min, -0.00281931518248 max
+('close', 'closes', 'closing', 'ends')
+		'keeps closing on me good game when it works but keeps closing on me uninstall'
+		'force closes when trying to continue game will force close unexpectedly a little while after starting new game motocliqxt'
+		'force closes more and more shame as it was my favourite of jewels games EXCLAMATION '
+		'after the last update the app is not working anymore force closing straight after i tapped on the icon so i only give 2 stars now pls fix '
+	153 reviews, 0.362745098039 avg, -0.0375299403389 min, -0.00232303654509 max
+('clear', 'open', 'opens')
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	137 reviews, 0.197080291971 avg, -0.117845370954 min, 0.00225573068055 max
+('update', 'updated', 'updates', 'updating')
+		'update when it tries to update says it wasnt signed right and wont update why bother putting out an update if its not right and cant be used '
+		'is ok but it keeps identifying itself as an update found then when i open the update there isnt one '
+		'average nice game but need to be update '
+		'not updating EXCLAMATION pocket change no thank you internet no thank you i installed this close to 2 yrs ago i am not looking for all this extra stuff put that with a pro version i installed this one for a reason if you change it i am uninstalling EXCLAMATION '
+	138 reviews, 0.38768115942 avg, -0.0502311660191 min, -0.000598852588042 max
+('open', 'opened', 'opening', 'opens')
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	136 reviews, 0.180147058824 avg, -0.117845370954 min, -0.000831187561438 max
+('close', 'closes', 'finish', 'finishes')
+		'force closes when trying to continue game will force close unexpectedly a little while after starting new game motocliqxt'
+		'new update has problem because when playing time game is finish it close program instead going back to the menu '
+		'not updating EXCLAMATION pocket change no thank you internet no thank you i installed this close to 2 yrs ago i am not looking for all this extra stuff put that with a pro version i installed this one for a reason if you change it i am uninstalling EXCLAMATION '
+		'good it force closes quite a bit but its addicting '
+	112 reviews, 0.377232142857 avg, -0.0375299403389 min, -0.000194453450693 max
+('loose', 'open')
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	130 reviews, 0.171153846154 avg, -0.117845370954 min, 0.000840178513117 max
+('open', 'subject')
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	129 reviews, 0.164728682171 avg, -0.117845370954 min, -0.000468447025814 max
+('boring', 'dull', 'slow')
+		'nhl why is this game being slow i dont like how its changed and the game looks huge for some reason and whats with the pocket change thingy dont like the new changes but i like the game but really its slow '
+		'slow idk why but no matter when i download this game its always slow'
+		'not for me gets boring really fast no specials no action nicely programmed but boring jewels deluxe is more to my taste '
+		'slow action is slow and boring no special jewels or such for incentive '
+	108 reviews, 0.386574074074 avg, -0.0289429225547 min, -0.00149593794899 max
+('draw', 'drawings', 'draws', 'force', 'forced', 'forces', 'forcing', 'pull')
+		'force closes more and more shame as it was my favourite of jewels games EXCLAMATION '
+		'after the last update the app is not working anymore force closing straight after i tapped on the icon so i only give 2 stars now pls fix '
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'just randomly stops after some time the game just force closes on you you can never get a high score '
+	79 reviews, 0.303797468354 avg, -0.0395816426831 min, 0.000718266165287 max
+
+Positive metrics for jewels:
+Average rating: 0.763
+('EXCLAMATION',)
+		'confused EXCLAMATION love the game but i have to keep uninstalling re downloading to get game to open EXCLAMATION it wont open after a few uses but it says its down loaded EXCLAMATION '
+		'love it i love this game itz so freackin cool i love the theme too and the jewles r really pretty i think its super fun EXCLAMATION great job creators keep up the good work EXCLAMATION \xc2\xa1 EXCLAMATION '
+		'sorry to be a grammar fairy but the word is addictive not addicting EXCLAMATION argh EXCLAMATION great game though EXCLAMATION x'
+		'love it EXCLAMATION after reading all other reviews im afraid to update EXCLAMATION '
+	1080 reviews, 0.811805555556 avg, 0.383734419109 min, 0.383734419109 max
+('addictive',)
+		'addictive this game is addictive'
+		'addictive game very addictive game i love this game i have had no problems at all with it strongly recommend it '
+		'addictive very addictive and a lot of fun great game '
+		'brilliantly addictive fluid controls on samsung galaxy s2 good colours simple yet addictive no ads no glitches it just works EXCLAMATION '
+	349 reviews, 0.917621776504 avg, 0.212369510656 min, 0.212369510656 max
+('excellent',)
+		'excellent very fine'
+		'i like this very nice game i like this very nice excellent game'
+		'excellent EXCLAMATION EMOTICONsmile love it EXCLAMATION great game EXCLAMATION d'
+		'excellent game i have htc wildfire which is a very old phone only few apps work without mich difficulty and this is one of the best app '
+	70 reviews, 0.953571428571 avg, 0.0597701061951 min, 0.0597701061951 max
+('sweet',)
+		'sweet game i would like more ways to earn pocket change but aside from that awesome game EXCLAMATION '
+		'so addictive EXCLAMATION i also played jewels2 EXCLAMATION i was good but too mch going on for me too many options lol i like things sweet n simple EXCLAMATION '
+		'jems sweet'
+		'sweet brilliant game cant wait for next one hours of joy cheers'
+	14 reviews, 1.0 avg, 0.013264662446 min, 0.013264662446 max
+('amazing', 'awesome', 'awful')
+		'awesome EXCLAMATION jewels is a awesome way to spend my down time its great for short and long breaks '
+		'awesome i love this game its so awesome i never exit yet i like play thus game im up all nite playin this game'
+		'awesome cool game n awesome rewards'
+		'this game is awesome EXCLAMATION i downloaded thus game and started playing it and it is so addicting when it starts up and it is very facanating with the colors then u find yourself trying to make it up to level 30 its just an awesome game and the linked pocket change app and tokens are a plus u got to try it and find out for yourself EXCLAMATION '
+	252 reviews, 0.924603174603 avg, -0.00577915330145 min, 0.140912739016 max
+('dis',)
+		'fckin nice game galaxy y rocks wid dis game n dis game is vry addictive morw dan my gf and my drugs xd p'
+		'love it omfg i love dis game'
+		'luv dis game'
+		'\xe2\x99\xa5 i like it nd its fun tew meh so lik dis shidd'
+	15 reviews, 0.966666666667 avg, 0.0116706776838 min, 0.0116706776838 max
+('stress', 'tension')
+		'love this game this is my favorite stress relief game everyone in my family likes this game as well '
+		'stress relief'
+		's randall the game is highly addictive relieve help with tension you just cant stop playing it EXCLAMATION '
+		'nice great stress reliever'
+	15 reviews, 0.966666666667 avg, 0.00173305764719 min, 0.0106025219719 max
+('loose', 'relax', 'relaxing')
+		'so relaxing great free app so relaxing reliable '
+		'great EXCLAMATION it has the infinite mode id been looking for for times i just want to relax EXCLAMATION '
+		'i like it i find it easy relaxing'
+		'love it EXCLAMATION EMOTICONlove its a great way to unwind really relaxing keep up the good work EXCLAMATION EMOTICONsmile xxx'
+	28 reviews, 0.964285714286 avg, 0.000840178513117 min, 0.0181783975822 max
+('quiet', 'smooth')
+		'amazing EXCLAMATION what a wonderful upgrade smooth graphics great new interface exciting gameplay well done mh EXCLAMATION '
+		'well done EXCLAMATION everything running smooth few bumps when first used but that was 6weeks ago conscientious developer always a big plus EMOTICONsmile peace'
+		'love it EXCLAMATION great for no thinking but takes time program runs smooth '
+		'5 stars smooth play game highly addictive best jewel match 3 game around to date '
+	15 reviews, 0.966666666667 avg, 0.00282950512065 min, 0.00882391016555 max
+('enjoy', 'enjoyed', 'enjoying', 'love', 'loved', 'loves', 'loving')
+		'love love love EXCLAMATION i absolutely love this game i play in the infinity mode and im at 3 million points so far '
+		'love love love this game'
+		'love it EXCLAMATION i play this game 24 7 i absolutely love and enjoy playing this game time goes by so fast while playing im on it for hours at a time its a must to have on your phone if you ask me EMOTICONsmile'
+		'nettez i love love love it EXCLAMATION EMOTICONwink'
+	937 reviews, 0.8962113127 avg, -0.00446180710944 min, 0.487351234372 max
+
+Negative metrics for jewels:
+Average rating: 0.763
+('access', 'accessed', 'accessing')
+		'dropping stars why permission access great little app but not updating because of the unnessesary access rights in the latest version '
+		'did u read the permissions EXCLAMATION newest update has access to way too much of my information cool fun game but its just a game not worth giving them all that info for just a free game EXCLAMATION will find another less intrusive free jewel game '
+		'htc sense not been able to access this for a month now no update removed'
+		'does not need to get my known accounts EXCLAMATION the update gives them access to all known accounts on the phone it is a game for crying out loud EXCLAMATION i am uninstalling'
+	14 reviews, 0.0535714285714 avg, -0.0145804256691 min, -0.00145598451349 max
+('spam',)
+		'spam spam'
+		'spam startup screen EXCLAMATION prompted me to sign up for some spam email immediately upon starting the game with various form fields pre filled for my convenience creepy thank the gods you cant install a browser toolbar in android or thatd be in there too im sure '
+		'spam spam if u ask me shortly after i installed the game i received some random text from some guy it said something about research i deleted the message and uninstalled the game '
+		'hated it because of spam EXCLAMATION i loooooove jewels but this app i got a bunch of spam messages you have won a ipad or claim your prize EXCLAMATION every time i completed a level so i had to uninstall it '
+	14 reviews, 0.0892857142857 avg, -0.0158023451696 min, -0.0158023451696 max
+('open', 'subject')
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	129 reviews, 0.164728682171 avg, -0.117845370954 min, -0.000468447025814 max
+('crap', 'poop')
+		'crap this is so crap like what the hell is this i dont even know this was my first time playing it and i got bored so quickly so i deleted it make it better this is crap as'
+		'crap crap game'
+		'no data connections no play so forget about it if you want to play e g onboard of plane crap '
+		'uninstalling due to pocket change in no way shape or form do i want to be associated with any app that requires forces us the users to be part of this ridiculous pocket change pocket change has taken great apps made them crap its just beyond wrong to force us to be part of this and the excuse is so we the consumers get stuff come on EXCLAMATION this was not the first app ive uninstalled due to this pocket change but hopefully the last also it doesnt matter if you paid for the app or if its a free app its too bad i liked this'
+	21 reviews, 0.119047619048 avg, -0.020717628154 min, 0.00106425723193 max
+('loose', 'open')
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	130 reviews, 0.171153846154 avg, -0.117845370954 min, 0.000840178513117 max
+('account', 'accounts', 'story')
+		'does not need to get my known accounts EXCLAMATION the update gives them access to all known accounts on the phone it is a game for crying out loud EXCLAMATION i am uninstalling'
+		'phone accounts now that update requires seeing the accounts on my phone uninstall EXCLAMATION from 3 stars to 1 '
+		'boring ugly and misleading you accumulate p coins coins which you earn by playing a certain number of games etc when you get enough coins you can get anything from additional iaps for games to music downloads from amazon to gift cards if you are willing to put some serious time into playing the game i got enough to download gangnam style so i pressed the buy button and low and behold i have to log into facebook to redeem EXCLAMATION disgusted EXCLAMATION i dont have and dont want a facebook account scam EXCLAMATION stay away EXCLAMATION '
+		'unwanted i will be deleting this app as it is seeking permission for things it has business gaining permission to why would this app need to be able to read and save all accounts known to my phone if i wanted it to have that info i would have gave it out but i dont so i am deleting this app'
+	12 reviews, 0.125 avg, -0.0116064137597 min, 0.000846784282708 max
+('awful', 'dreadful', 'terrible')
+		'samsung galaxy tab 2 7 0 this might be a good game if it would be 2009 the graphics and the ui are terrible including that the resolution on tablets is just awful there isnt any music and those f king ads EXCLAMATION the only thing that it does right is the gameplay but it can be better '
+		'terrible EXCLAMATION this game is terrible EXCLAMATION because it open and not let me play i would never give this piece junk any stars EXCLAMATION EMOTICONsad '
+		'awful update omg EXCLAMATION was my fave game until the auto update now it freezes blank screen had to uninstall so upset EXCLAMATION '
+		'slow and boring touch response slow and boring nothing special about this terrible game'
+	11 reviews, 0.136363636364 avg, -0.00704437792054 min, -1.03053765908e-06 max
+('crap', 'making')
+		'runs like crap crashes constantly'
+		'crap uninstall '
+		'crap this is so crap like what the hell is this i dont even know this was my first time playing it and i got bored so quickly so i deleted it make it better this is crap as'
+		'crap crap game'
+	27 reviews, 0.148148148148 avg, -0.020717628154 min, -0.00515875112709 max
+('horrible', 'ugly')
+		'recent date horrible ive enjoyed playing this in the past but after the most recent update it is almost unplayable long time to load then very sluggish actual play ill probably be unstalling depending on any corretctive actios from developers '
+		'not for tablets may great on a phone but is horrible on a tablet '
+		'needs work pretty great game but the graphics are horrible on droid razr need an update for hd imaging '
+		'boring ugly and misleading you accumulate p coins coins which you earn by playing a certain number of games etc when you get enough coins you can get anything from additional iaps for games to music downloads from amazon to gift cards if you are willing to put some serious time into playing the game i got enough to download gangnam style so i pressed the buy button and low and behold i have to log into facebook to redeem EXCLAMATION disgusted EXCLAMATION i dont have and dont want a facebook account scam EXCLAMATION stay away EXCLAMATION '
+	13 reviews, 0.153846153846 avg, -0.0117912932074 min, -0.00114289980003 max
+('open', 'opened', 'opening', 'opens')
+		'doesnt open it stopped opening refuses to come on have deleted reloaded but still doesnt open '
+		'hmm used to be my fave game and work great but now every time i open it it asks me to sign up for something and force closes it stopped letting me even open the app even after uninstall and reinstall when it did open it had deleted all of my high scores '
+		'game wont open EXCLAMATION the game was working fine and today it will not open lame '
+		'wont open wont open anymore '
+	136 reviews, 0.180147058824 avg, -0.117845370954 min, -0.000831187561438 max

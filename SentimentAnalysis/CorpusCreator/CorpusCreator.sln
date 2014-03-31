@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SubjectiveWordClusterer", "SubjectiveWordClusterer\SubjectiveWordClusterer.pyproj", "{72CF352B-946C-4C6E-8D58-0E125BB5006F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CollectSynsets", "CollectSynsets\CollectSynsets.pyproj", "{7F2B1CD5-01CA-4673-A8EE-65342462F3E9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReviewCleaner", "ReviewCleaner\ReviewCleaner.pyproj", "{8E27291E-BDBC-4139-9B69-D31DC684673E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SynsetReviewAggregator", "SynsetReviewAggregator\SynsetReviewAggregator.pyproj", "{B37995F2-CDF2-44BD-9EF4-8E47C4779F32}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ComputeSynsetMetrics", "ComputeSynsetMetrics\ComputeSynsetMetrics.pyproj", "{5EEC8D03-2646-417E-8574-5E8D3A3B8298}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearnUnigramWeights", "LearnUnigramWeights\LearnUnigramWeights.pyproj", "{4634F132-04A8-4C0D-88D2-70922C5B435E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CF352B-946C-4C6E-8D58-0E125BB5006F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CF352B-946C-4C6E-8D58-0E125BB5006F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CF352B-946C-4C6E-8D58-0E125BB5006F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CF352B-946C-4C6E-8D58-0E125BB5006F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2B1CD5-01CA-4673-A8EE-65342462F3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2B1CD5-01CA-4673-A8EE-65342462F3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2B1CD5-01CA-4673-A8EE-65342462F3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2B1CD5-01CA-4673-A8EE-65342462F3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E27291E-BDBC-4139-9B69-D31DC684673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E27291E-BDBC-4139-9B69-D31DC684673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E27291E-BDBC-4139-9B69-D31DC684673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E27291E-BDBC-4139-9B69-D31DC684673E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37995F2-CDF2-44BD-9EF4-8E47C4779F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37995F2-CDF2-44BD-9EF4-8E47C4779F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37995F2-CDF2-44BD-9EF4-8E47C4779F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37995F2-CDF2-44BD-9EF4-8E47C4779F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEC8D03-2646-417E-8574-5E8D3A3B8298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEC8D03-2646-417E-8574-5E8D3A3B8298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEC8D03-2646-417E-8574-5E8D3A3B8298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEC8D03-2646-417E-8574-5E8D3A3B8298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4634F132-04A8-4C0D-88D2-70922C5B435E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4634F132-04A8-4C0D-88D2-70922C5B435E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4634F132-04A8-4C0D-88D2-70922C5B435E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4634F132-04A8-4C0D-88D2-70922C5B435E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

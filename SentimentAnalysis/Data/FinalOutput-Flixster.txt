@@ -1,0 +1,188 @@
+﻿Secret Sauce metrics for flixster:
+Average rating: 0.849222222222
+('play', 'played', 'playing', 'plays', 'running', 'runs')
+		'when i try to play the movies ive downloaded the movie plays faster than the characters talk help EXCLAMATION all my movies do this EXCLAMATION '
+		'my colection not playing movies i own having playback issues used to play fine before other than that issue this is a 5 star app'
+		'good it will be a 5 when i can play my digital movies on sony xperia z update 9 2 2013 still cannot play on my sony xperia z works on apple products kind of bummed maybe i shouldve bought an iphone '
+		'eh doesnt load movies i own all the time but when it does plays well '
+	198 reviews, 0.479797979798 avg, -0.0563206391742 min, 0.006473485983 max
+('encounter', 'encountered', 'meets', 'play', 'played', 'playing', 'plays')
+		'when i try to play the movies ive downloaded the movie plays faster than the characters talk help EXCLAMATION all my movies do this EXCLAMATION '
+		'my colection not playing movies i own having playback issues used to play fine before other than that issue this is a 5 star app'
+		'good it will be a 5 when i can play my digital movies on sony xperia z update 9 2 2013 still cannot play on my sony xperia z works on apple products kind of bummed maybe i shouldve bought an iphone '
+		'eh doesnt load movies i own all the time but when it does plays well '
+	190 reviews, 0.484210526316 avg, -0.0563206391742 min, 0.006473485983 max
+('acts', 'play', 'played', 'playing', 'plays')
+		'when i try to play the movies ive downloaded the movie plays faster than the characters talk help EXCLAMATION all my movies do this EXCLAMATION '
+		'my colection not playing movies i own having playback issues used to play fine before other than that issue this is a 5 star app'
+		'good it will be a 5 when i can play my digital movies on sony xperia z update 9 2 2013 still cannot play on my sony xperia z works on apple products kind of bummed maybe i shouldve bought an iphone '
+		'eh doesnt load movies i own all the time but when it does plays well '
+	187 reviews, 0.482620320856 avg, -0.0563206391742 min, 0.006473485983 max
+('play', 'plays', 'turn', 'turns')
+		'error with playback wont play movies small collection and none play error message every time '
+		'wont play uv movies i like this app except it wont stream my uv movies it says its because my tablet is rooted why would this make a difference so if you have a rooted device you might think twice about this app '
+		'wont play movies loaded onto device without internet connection so cant watch on the go'
+		'doesnt work most of the time uploaded my movies but theres almost always an error when trying to play them '
+	121 reviews, 0.351239669421 avg, -0.0563206391742 min, 0.000535550903948 max
+('play', 'played', 'playing', 'plays', 'toys')
+		'when i try to play the movies ive downloaded the movie plays faster than the characters talk help EXCLAMATION all my movies do this EXCLAMATION '
+		'my colection not playing movies i own having playback issues used to play fine before other than that issue this is a 5 star app'
+		'good it will be a 5 when i can play my digital movies on sony xperia z update 9 2 2013 still cannot play on my sony xperia z works on apple products kind of bummed maybe i shouldve bought an iphone '
+		'eh doesnt load movies i own all the time but when it does plays well '
+	187 reviews, 0.483957219251 avg, -0.0563206391742 min, 0.006473485983 max
+('fun', 'play', 'plays')
+		'when i try to play the movies ive downloaded the movie plays faster than the characters talk help EXCLAMATION all my movies do this EXCLAMATION '
+		'good it will be a 5 when i can play my digital movies on sony xperia z update 9 2 2013 still cannot play on my sony xperia z works on apple products kind of bummed maybe i shouldve bought an iphone '
+		'eh doesnt load movies i own all the time but when it does plays well '
+		'sometimes movies dont come up to play its good from time to time'
+	145 reviews, 0.434482758621 avg, -0.0563206391742 min, 0.0141413600571 max
+('bring', 'bringing', 'brings', 'play', 'played', 'playing', 'plays', 'work', 'worked', 'working', 'works')
+		'good app but EXCLAMATION this is a great app plays most of your movies some of the time depending on what device you have it may or may not work i have emailed their support team with the error about 4 times and got the well look into and let u know never did so as long as it works its great but be prepared it doesnt work on all devices and depending on condition connection etc may not work '
+		'great when it works doesnt let me stream 100 of the time but the last few updates made it work more often so keep up the good work '
+		'great app but this is a great app for watching your ultra violet movies on and you cant even turn a couple of free movies which is nice but it does not work on rooted phones at least they give you the answer to work get it working and a customer support services good it will get 5 stars when it is root compatible'
+		'doesnt work it says initializing but then the movie does not play '
+	586 reviews, 0.65656996587 avg, -0.0563206391742 min, 0.111792786561 max
+('leave', 'leaves', 'left', 'will')
+		'its ok i like this app i just wish it had more options if i want to see some thing i have to know what the name is and my movies that i started on my phone will not show up on other devices i have 2accounts under the same email will all the same information please help'
+		'almost perfect nice app EXCLAMATION will gove 5 stsr when all movies will play EXCLAMATION '
+		'its cool app i will give a new rating when things seem to me better im still learning at this point my movies frees up i have to download it to my device gs3 its cool app i will give a new rating when things seem to me better im still learning at this point my movies freeze up i have to download to my device gs 3 '
+		'will not work with gs3 after last update this was a great app before the last update i keep getting an error that there is a problem with my vudu account and that i need to log in to flixter on my computer i have vudu works on my pc flixter works on my pc but not on my phone fix it EXCLAMATION '
+	93 reviews, 0.422043010753 avg, -0.037137294162 min, 0.00261197121894 max
+('download', 'downloaded', 'downloading', 'downloads')
+		'good app i overall like this app the only thing i dont like is once you download a movie and the app updates you have to re download it the folder that say movies downloaded dissappears fix this and ill rate app higher '
+		'download issues i cant download my movies it says download failed everytime'
+		'good but could be better this app is great because you can sync your online ultraviolet movie collection but i find it annoying that some of the movies i downloaded straight to my phone cant be watched without a network connection i mean thats the point of downloading them right EXCLAMATION and it seems that with the latest update theyve removed the ability for its to download as well '
+		'good app i like the overall layout of the app but i have one problem there is no where for me to download the movie to my phone yet it says that you can download your movies i have an htc one '
+	190 reviews, 0.572368421053 avg, -0.0151582638147 min, -0.00177827084373 max
+('stream', 'streamed', 'streaming', 'streamings', 'streams')
+		'cant download but streamings been fixed well done for fixing the streaming problem but there is still no option to download films'
+		'good for streaming but great app when streaming on my wifi but videos wont play when i download them i tried multiple video media apps with 0 luck '
+		'no streaming on legally rooted devices overall a good way to stream my digital movie collection still not happy about the restrictions on rooted devices but am able to work around it '
+		'average even with update you still cant watch the video EXCLAMATION dont know about others but galaxy s2 doesnt support this file for download but streams halfway decent if in good area but again s2 isnt an lte capable phone so that is limited '
+	77 reviews, 0.470779220779 avg, -0.0161049565692 min, 0.00136252911861 max
+
+Positive metrics for flixster:
+Average rating: 0.849222222222
+('EXCLAMATION',)
+		'the best EXCLAMATION even has my small town theater listed EXCLAMATION great way to choose between going out or staying in EXCLAMATION plus knowing what is upcoming EXCLAMATION love it EXCLAMATION '
+		'i love it EXCLAMATION very informative EXCLAMATION movie showtimes are accurate EXCLAMATION i warn u ignore the critics lol EXCLAMATION read the user reviews instead EXCLAMATION '
+		'love it EXCLAMATION great great app EXCLAMATION love the movie trailers and theatre locator EXCLAMATION works perfect even away from home EXCLAMATION highly recommend EXCLAMATION '
+		'awesome EXCLAMATION highly recommend it EXCLAMATION awesome EXCLAMATION highly recommend it EXCLAMATION '
+	1109 reviews, 0.888187556357 avg, 0.437264146843 min, 0.437264146843 max
+('great', 'greats')
+		'great great app and great movie service i initially used it just for session times but now i check out all my movie information reviews and add ratings with this app and also the full desktop website highly recommended EXCLAMATION '
+		'great great great '
+		'great app EXCLAMATION great with my uv cv collection EXCLAMATION also a great app for looking up films and adding to my want to see list EXCLAMATION '
+		'great great see upcoming movie dates dvd release dates and can watch my digital copies all in one site great '
+	1359 reviews, 0.931935246505 avg, 0.000646953869056 min, 0.629963249489 max
+('great', 'greater', 'greatest', 'outstanding')
+		'great great app and great movie service i initially used it just for session times but now i check out all my movie information reviews and add ratings with this app and also the full desktop website highly recommended EXCLAMATION '
+		'great great great '
+		'great app EXCLAMATION great with my uv cv collection EXCLAMATION also a great app for looking up films and adding to my want to see list EXCLAMATION '
+		'great great see upcoming movie dates dvd release dates and can watch my digital copies all in one site great '
+	1372 reviews, 0.931851311953 avg, 0.00014784715437 min, 0.629963249489 max
+('amazing', 'awesome', 'awful')
+		'awesome off the hooks it is a great app 1 it have free full leanth movies 2 it have evry movie from 1929s to 2013 now it is awesome'
+		'awesome awesome app luv it i get to see all my fav movies'
+		'awesome awesome EXCLAMATION '
+		'awesome app this app is awesome '
+	470 reviews, 0.962234042553 avg, -0.00493616079611 min, 0.267360412461 max
+('excellent', 'splendid')
+		'love that it shows what movies are playing near me no matter where im at even if im visiting friends in another city most excellent app excellent app and i love that it shows whats playing near me no matter where im at most excellent app'
+		'excellent excellent app fast reliable the ultraviolet is excellent too better than the rest'
+		'excellent excellent'
+		'excellent excellent'
+	233 reviews, 0.972103004292 avg, 0.00109971129813 min, 0.160919989813 max
+('great', 'greater', 'greatest', 'keen', 'neat', 'nifty')
+		'great great app and great movie service i initially used it just for session times but now i check out all my movie information reviews and add ratings with this app and also the full desktop website highly recommended EXCLAMATION '
+		'great great great '
+		'great app EXCLAMATION great with my uv cv collection EXCLAMATION also a great app for looking up films and adding to my want to see list EXCLAMATION '
+		'great great see upcoming movie dates dvd release dates and can watch my digital copies all in one site great '
+	1374 reviews, 0.931768558952 avg, 0.00014784715437 min, 0.629963249489 max
+('enjoy', 'enjoyed', 'enjoying', 'enjoys', 'love', 'loved', 'loves', 'loving')
+		'i love this i can watch a movie anyti me anywhere my favorite app i highly recommend this app to everyone who loves movies you can watch them anywhere and anytime you want plus they give you ftee movies to add ro your collection i love this app this is a great app to have youll enjoy it if you love movies EXCLAMATION '
+		'love love love love this app'
+		'great love it love knowing whats moves and dvds are coming out love app but having touble with uv part of it '
+		'love it great app for movie lovers EXCLAMATION i love checking out reviews and rotten tomatoes ratings love that they added a netflix section EXCLAMATION makes picking out movies from netflix easier '
+	990 reviews, 0.957070707071 avg, -0.00172606706982 min, 0.520868897146 max
+('helpful',)
+		'really helpful app for a movie lover cant thank this apps developers i use it to buy blu rays and prior to cinema visits its incredibly helpful in sorting out the rubbish from top stuff '
+		'very helpful EXCLAMATION this app is very helpful finding movie times at theaters around you and at your favorite theaters i use it all the time '
+		'helpful app this ap had been very helpful and accurate for me i dont have any complaints '
+		'very helpful very helpful'
+	93 reviews, 0.954301075269 avg, 0.0626981503989 min, 0.0626981503989 max
+('bed', 'jazzed', 'knowing', 'love', 'loved', 'loves', 'loving', 'screw', 'screwed')
+		'great love it love knowing whats moves and dvds are coming out love app but having touble with uv part of it '
+		'i love this i can watch a movie anyti me anywhere my favorite app i highly recommend this app to everyone who loves movies you can watch them anywhere and anytime you want plus they give you ftee movies to add ro your collection i love this app this is a great app to have youll enjoy it if you love movies EXCLAMATION '
+		'love love love love this app'
+		'love it great app for movie lovers EXCLAMATION i love checking out reviews and rotten tomatoes ratings love that they added a netflix section EXCLAMATION makes picking out movies from netflix easier '
+	942 reviews, 0.958067940552 avg, -0.00172606706982 min, 0.520868897146 max
+('brilliant', 'superb')
+		'brill app brilliant app for uv code to watch films'
+		'brilliant love this app'
+		'brilliant fantastic app which is easy to use full of useful and fun features and a brilliant companion for a movie lover such as myself'
+		'brilliant'
+	45 reviews, 1.0 avg, 0.0104798497613 min, 0.0233154196043 max
+
+Negative metrics for flixster:
+Average rating: 0.849222222222
+('awful', 'dreaded', 'terrible')
+		'terrible does not work across the board my laptop phone tablet terrible '
+		'awful doesnt work on htc one dont waste your time '
+		'htc one sv movies use to play all the way through on my htc one sv now there is constant skipping movie play is terrible between this and vudu i do not find these apps user friendly at all'
+		'terrible update EXCLAMATION cant even open the app anymore EXCLAMATION '
+	14 reviews, 0.0178571428571 avg, -0.00966083617139 min, -0.00154495753706 max
+('bull', 'bullshit', 'crap')
+		'offline watching doesnt work i have downloaded several movies to watch offline during mynlong flight to my surpise the app is useless unless connected to network because without it it will not let you logon and access my movies this app is crap and a waist of my time and money'
+		'crap tells me after setting up an account that my code is not valid for my country EXCLAMATION funny my money was fine to take when i bought it wankers'
+		'absolutely crap wont link to my ultraviolet films'
+		'this app hasnt worked since i loaded it crap EXCLAMATION '
+	19 reviews, 0.0657894736842 avg, -0.0190348692494 min, -0.000635833876679 max
+('poor',)
+		'still cant download to sd on galaxy tab 2 very poor so i cant watch movies when and where i want as advertised cant download movies onto my sd card very poor '
+		'horrible keeps saying poor connection says poor connection every 5 minutes and my connection is fine EXCLAMATION reallly annnnoooyyinnng'
+		'poor very poor i have a htc one x fast and powerful enough you would agree however this app is an abomination i have two ultraviolet films with this and not only do i not have the option to download streaming is awful even when going through my 100mb internet at home it if im lucky will get to 5 mins of either film then may say buffering then loading and then back to the beginning of the film EXCLAMATION and forget trying to get back to the point where it left as it does the same EXCLAMATION '
+		'poor techs support and never works EXCLAMATION '
+	31 reviews, 0.112903225806 avg, -0.0296254484977 min, -0.0296254484977 max
+('rubbish',)
+		'rubbish doesnt play on mobile so pointless app EXCLAMATION '
+		'rubbish this is a bad app do not get it'
+		'rubbish spent hours trying to use on v7 pad'
+		'rubbish EXCLAMATION EXCLAMATION x2'
+	13 reviews, 0.0961538461538 avg, -0.0128591008956 min, -0.0128591008956 max
+('useless',)
+		'its good but it wont let me watch my digital coppies so its pretty useless'
+		'no download support for htc devices when is this going to happen very poor and next to useless app until this happens '
+		'offline watching doesnt work i have downloaded several movies to watch offline during mynlong flight to my surpise the app is useless unless connected to network because without it it will not let you logon and access my movies this app is crap and a waist of my time and money'
+		'consistently crashing have not got it to actually load a single time useless app its give it 0 stars of i could '
+	20 reviews, 0.1375 avg, -0.0194135780411 min, -0.0194135780411 max
+('message', 'messages')
+		'error when streaming owned movies this would be a great app if i could stream the movies i own without getting a playback error message on my nexus 7 will probably give it 5 stars once this is fixed but for now ill put this app on hold sorry EMOTICONsad'
+		'not impressed first of all the movie does not play all the way through second can not download movie to my phone it always gives me an error message'
+		'was good but now disconnects often i used to love this app but fir some reason i keep getting poor connection quality messages every 10 min or so even when i have great signal or on wifi i could still even forgive it if it saved where it disconnected but it always wants to start from the beginning of movie very frustrating EXCLAMATION '
+		'error with playback wont play movies small collection and none play error message every time '
+	19 reviews, 0.171052631579 avg, -0.0133130202815 min, -0.00263098668764 max
+('ware', 'waste', 'wasted', 'wasting')
+		'absolute complete gargage bag leakage EXCLAMATION flixter says i can download and watch my ultraviolet movies wrong i wasted not only the extra money on the blu ray digital copy pack but i also burned almost a whole gig of data downloading the copy to my samsung 8 0 note with nothing but an error message stating sorry can not play this video i would have been better off saving the the money on the blu ray combo pack the burnt to chared up toast gigs of data and stood in front of the house at 5 00 a m in the morning on garbage day and then gave the money to the waste disposal truck driver in payment to stop the hydraulic can lift at the opportune moment so as to drink the leakage drooling out of the bottom of my garbage can so i didnt have to lift the weight of the can myself thanks flixter EXCLAMATION '
+		'waste of time absolutely awful i cannot download or watch films dont waste your time EXCLAMATION '
+		'this app used to be top notch over the past year however the release dates for dvds is beyond poor waste of space and will be deleted EXCLAMATION '
+		'garbage didnt work waste of time'
+	22 reviews, 0.170454545455 avg, -0.0189644864751 min, 0.000639859361232 max
+('blow', 'blows', 'suck', 'sucked', 'sucks')
+		'sucks i downloaded a movie and cant find where it is in my files but every time i try to watch it it still buffers if its downloaded why does it buffer'
+		'ugh EXCLAMATION this app sucks its not very user friendly i cant figure out how to add a movie to my library things shouldnt be so difficult '
+		'uv sucks flixter craptastic better why cant i store movies on my ad card stupid '
+		'sucks just use the internet this app sucks does not give proper movie information my fiance has this on her iphone and my android version was stating that the non 3d version was playing and the 3d version was not checked the amc site and the iphone app was right its no wonder people buy i phones over android developers suck and slack on android versions '
+	45 reviews, 0.194444444444 avg, -0.0296730902916 min, 0.000503543218343 max
+('blow', 'blows', 'waste', 'wasted', 'wasting')
+		'absolute complete gargage bag leakage EXCLAMATION flixter says i can download and watch my ultraviolet movies wrong i wasted not only the extra money on the blu ray digital copy pack but i also burned almost a whole gig of data downloading the copy to my samsung 8 0 note with nothing but an error message stating sorry can not play this video i would have been better off saving the the money on the blu ray combo pack the burnt to chared up toast gigs of data and stood in front of the house at 5 00 a m in the morning on garbage day and then gave the money to the waste disposal truck driver in payment to stop the hydraulic can lift at the opportune moment so as to drink the leakage drooling out of the bottom of my garbage can so i didnt have to lift the weight of the can myself thanks flixter EXCLAMATION '
+		'waste of time absolutely awful i cannot download or watch films dont waste your time EXCLAMATION '
+		'this app used to be top notch over the past year however the release dates for dvds is beyond poor waste of space and will be deleted EXCLAMATION '
+		'garbage didnt work waste of time'
+	23 reviews, 0.195652173913 avg, -0.0189644864751 min, 0.000639859361232 max
+('data',)
+		'background data usage hi this app on several occasions uses huge amounts of data in the background though it was only opened to the home page 450 mb to load the top box office dvd availability something is wrong there happy to troubleshoot and adjust review once resolved aside from that great app'
+		'ok app i have lots of movies but flixster restricts the amount of data that can be downloaded cant download all my movies '
+		'absolute complete gargage bag leakage EXCLAMATION flixter says i can download and watch my ultraviolet movies wrong i wasted not only the extra money on the blu ray digital copy pack but i also burned almost a whole gig of data downloading the copy to my samsung 8 0 note with nothing but an error message stating sorry can not play this video i would have been better off saving the the money on the blu ray combo pack the burnt to chared up toast gigs of data and stood in front of the house at 5 00 a m in the morning on garbage day and then gave the money to the waste disposal truck driver in payment to stop the hydraulic can lift at the opportune moment so as to drink the leakage drooling out of the bottom of my garbage can so i didnt have to lift the weight of the can myself thanks flixter EXCLAMATION '
+		'cannot even uninstall this has been an ongoing issue that was once corrected with an update but since last update issue returns when i try to open app tablet freezes and restarts when i try to clear cache clear data and uninstall system freezes and restarts this app has been a nightmare for me would not recommend '
+	11 reviews, 0.204545454545 avg, -0.0104668259904 min, -0.0104668259904 max

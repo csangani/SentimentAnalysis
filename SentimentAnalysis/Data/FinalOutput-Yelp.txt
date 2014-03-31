@@ -1,0 +1,188 @@
+﻿Secret Sauce metrics for yelp:
+Average rating: 0.819166666667
+('mail', 'post', 'posted', 'posting', 'postings', 'posts', 'send', 'sending', 'sends')
+		'cannot post review i cant post my reviews i write it and try to post them im told i have to log in but im already logged in need an update '
+		'lacking needs to be able to let us write and post a review i dont like how i need to go on my internet browser to post the review we should be able to post a review straight from the app '
+		'why cant i post here if im taking the time to post on your app i should be awarded the same privies as a regular site user having to log on to the desktop to post is quite tedious and un necessary fix this issue and id give 5 stars otherwise a usefull source of info unless ur asking for a decent crab cake in baltimore another issue to be resolved would be not to allow out of towners to rate any crabcake sold in baltimore if your not from here please dont say had a great crabcake im sorry but you really havent a clue EXCLAMATION '
+		'fatal flaw the fact that you cant post a review from the app is ridiculous i downloaded it specifically for that purpose if i want to leave a review i pull out my phone and do so while its on my mind having to get on a computer to actually post the review means ill probably forget its even there and never post it '
+	254 reviews, 0.541338582677 avg, -0.0293107286613 min, 0.00144579239703 max
+('brand', 'post', 'posted', 'posting', 'postings', 'posts')
+		'cannot post review i cant post my reviews i write it and try to post them im told i have to log in but im already logged in need an update '
+		'lacking needs to be able to let us write and post a review i dont like how i need to go on my internet browser to post the review we should be able to post a review straight from the app '
+		'why cant i post here if im taking the time to post on your app i should be awarded the same privies as a regular site user having to log on to the desktop to post is quite tedious and un necessary fix this issue and id give 5 stars otherwise a usefull source of info unless ur asking for a decent crab cake in baltimore another issue to be resolved would be not to allow out of towners to rate any crabcake sold in baltimore if your not from here please dont say had a great crabcake im sorry but you really havent a clue EXCLAMATION '
+		'fatal flaw the fact that you cant post a review from the app is ridiculous i downloaded it specifically for that purpose if i want to leave a review i pull out my phone and do so while its on my mind having to get on a computer to actually post the review means ill probably forget its even there and never post it '
+	241 reviews, 0.539419087137 avg, -0.0293107286613 min, 0.00144579239703 max
+('filter', 'filtered', 'filtering', 'filters')
+		'filters could be better i understand that its only an app and its meant to be simple but i feel that its really lacking in features id like to see more options on filtering out my search parameters '
+		'filters sorting dont work sorting or filtering by distance excludes lots of places the mobile site on chrome does this properly so its an app not a database problem '
+		'you need to stop filtering so people dont have to search harder just to get a review and as you filter the review rate goes down and thats not fair or good for the company'
+		'half as good as the website when i travel i live by yelp i love the service and find so many great place because of it however the app has considerably less functionally than the website the filters are the only way to truly get a true representation of what is good in a town please add filters like sort by most reviewed and then sorted by highest rating '
+	96 reviews, 0.3984375 avg, -0.0207386070964 min, -0.00297376439221 max
+('inspection', 'review', 'reviews')
+		'love yelp but ive noticed that you now filter some reviews but its so obvious that some businesses are padding their reviews there are so many erroneous 5 star raves im sure some are legitimate but we all know that many are not i think maybe reviews should be probationary and not posted until you have at least 10 under your belt the sad thing is when you see one raving 5 star review by someone who has 3 total reviews and you check out their other 2 reviews theyre usually 1 2 stars for a competitor '
+		'cant post a review and rate but it can do everything else wish i can just post a full in review from my phone or tab instead of having to boot up a pc to post review so i guess ill just post tips instead of posting ratings and reviews'
+		'good for looking up reviews good app for looking up reviews could use more functions like writing reviews and more sophisticated search like by keywords within the reviews'
+		'need review post function in app wish you could post reviews through the app instead of just drafting the review and then needing to log into the website to post the review besides that the interface is great and makes for a good tool when trying to get good info on restaurants etc '
+	872 reviews, 0.681479357798 avg, -0.0102941921767 min, 0.0653812024392 max
+('refresh', 'review', 'reviewed', 'reviewing', 'reviews')
+		'love yelp but ive noticed that you now filter some reviews but its so obvious that some businesses are padding their reviews there are so many erroneous 5 star raves im sure some are legitimate but we all know that many are not i think maybe reviews should be probationary and not posted until you have at least 10 under your belt the sad thing is when you see one raving 5 star review by someone who has 3 total reviews and you check out their other 2 reviews theyre usually 1 2 stars for a competitor '
+		'cant post a review and rate but it can do everything else wish i can just post a full in review from my phone or tab instead of having to boot up a pc to post review so i guess ill just post tips instead of posting ratings and reviews'
+		'good for looking up reviews good app for looking up reviews could use more functions like writing reviews and more sophisticated search like by keywords within the reviews'
+		'need review post function in app wish you could post reviews through the app instead of just drafting the review and then needing to log into the website to post the review besides that the interface is great and makes for a good tool when trying to get good info on restaurants etc '
+	883 reviews, 0.683465458664 avg, -0.0102941921767 min, 0.0653812024392 max
+('allow', 'allowed', 'allowing', 'allows', 'leave', 'leaves', 'leaving', 'left', 'provide', 'providing')
+		'buggy app with room to improve i yelp all the time and recently switched to verizon on a droid dna to find out that i cant check in anywhere since my location isnt updated whether gps and wifi are on or off it keeps showing the same location and even allows me to check in but wont allow me to find and check in to a business that i am currently at this app wont allow you to write and post reviews you can only draft them from your phone and will have to do so from a desktop laptop or through your phones browser on desktop mode '
+		'only ok does not allow all features and only allows draft input for reviews no live reviewing on the go'
+		'inconsistent i do love the app but i just searched for breakfast near me and it left out about 5 places that are within 5 minutes of my location also it it not very good at figuring out where i am it often just gives me results for where i was the last time i looked something up like the location finder just got lazy or something oh and i dont like how i cant write a review using the application thats dumb '
+		'bare minimum not as good as site doesnt allow me to customize filter as well as the site almost useless until this is fixed '
+	128 reviews, 0.54296875 avg, -0.0123069241712 min, 0.0046956064791 max
+('log', 'logged', 'logging')
+		'cannot post review i cant post my reviews i write it and try to post them im told i have to log in but im already logged in need an update '
+		'it wants me to log in all the time when i already am fix the log in to comment '
+		'its too hard to tell if you logged in handy tool but it needs to be more obvious your logged in '
+		'you cant submit a review on the app its kind of lame i could draft a review but need to log into the website to submit it whack EXCLAMATION decent otherwise easy to browse '
+	73 reviews, 0.455479452055 avg, -0.0161211477265 min, -0.000669976145293 max
+('publish', 'publishing', 'write', 'writes', 'writing', 'written', 'wrote')
+		'cant publish reviews the android app doesnt let reviewers of a business publish reviews from their mobile device after drafting a review and saving it a popup instructs to login to the website to publish the review ridiculous EXCLAMATION '
+		'decent app i wish i could write and post reviews directly from the app instead of writing in the app and the logging in through a regular browser and posting great app otherwise EXCLAMATION '
+		'cant publish reviews good info but the lack of ability to publish reviews from the app is really disappointing '
+		'could be better they need to change the app so that you can publish reviews through the app its a pain having to login via the web browser to publish i only use internet through my phone so it makes it a hassle '
+	145 reviews, 0.562068965517 avg, -0.00828007000107 min, 0.000639677222209 max
+('bad', 'tough', 'worse', 'worst')
+		'cant be canadian asked for a zip code upon sign up but living in canada means i have a postal code in a different format bad for location system '
+		'good but could be better ok a little bad luck with directions that dont quite get me there or businesses that have gone under and still show as in business'
+		'i have to agree the receptionist are bay far the worst i too feel the same they want to rush to get off the phone and seem like every single question is annoying the dr are super nice iv told the dr before not sure it went to far as nothing has changed so sad i actually live far and make the trip been thinking of moving because of the poor customer service '
+		'not bad wish you put the reviews in order by date'
+	115 reviews, 0.534782608696 avg, -0.014002219358 min, 0.00153283620993 max
+('bad', 'big', 'bigger', 'biggest', 'worse', 'worst')
+		'cant be canadian asked for a zip code upon sign up but living in canada means i have a postal code in a different format bad for location system '
+		'good but could be better ok a little bad luck with directions that dont quite get me there or businesses that have gone under and still show as in business'
+		'i have to agree the receptionist are bay far the worst i too feel the same they want to rush to get off the phone and seem like every single question is annoying the dr are super nice iv told the dr before not sure it went to far as nothing has changed so sad i actually live far and make the trip been thinking of moving because of the poor customer service '
+		'not bad wish you put the reviews in order by date'
+	144 reviews, 0.5625 avg, -0.014002219358 min, 0.00544647066981 max
+
+Positive metrics for yelp:
+Average rating: 0.819166666667
+('EXCLAMATION',)
+		'you EXCLAMATION yes you EXCLAMATION you need this app EXCLAMATION i absolutely love this app EXCLAMATION it has helped me find new places to go new things to try numbers to call and even directions EXCLAMATION this is a must have app EXCLAMATION d'
+		'i love yelp EXCLAMATION it is the best way to find anything youre looking for EXCLAMATION if youre a local youll still find things and share with people who are new all the great spots you know to keep those great little places in business EXCLAMATION and when youre new to a place find all the great spots from your computer or phone EXCLAMATION looovee love love yelp EXCLAMATION '
+		'yay EXCLAMATION mobile reviews EXCLAMATION yay EXCLAMATION finally mobile reviews EXCLAMATION increasing from 1 star to 5 so excited EXCLAMATION '
+		'best app EXCLAMATION we never try anything new but with honest reviews we have branched out EXCLAMATION plus i review like crazy EXCLAMATION not just food but everything EXCLAMATION EXCLAMATION '
+	1328 reviews, 0.877635542169 avg, 0.466599070328 min, 0.466599070328 max
+('helpful',)
+		'so helpful so helpful when im traveling and when im looking for new local places to try '
+		'really helpful ive recently moved in a new area and its really helpful for me love it EXCLAMATION '
+		'easy to use and very helpful EXCLAMATION very helpful app with good information its also easy to use EXCLAMATION '
+		'solid i like this app because its helpful and people who make the reviews are generally honest and helpful '
+	324 reviews, 0.908950617284 avg, 0.149598705906 min, 0.149598705906 max
+('great', 'greater', 'greatest', 'outstanding')
+		'i love yelp EXCLAMATION it is the best way to find anything youre looking for EXCLAMATION if youre a local youll still find things and share with people who are new all the great spots you know to keep those great little places in business EXCLAMATION and when youre new to a place find all the great spots from your computer or phone EXCLAMATION looovee love love yelp EXCLAMATION '
+		'great job good job on this app one love had this app for a long time running droidx keep up the great work now its on my gs4 great job'
+		'great app thanks its great has everything i need to find a place couldnt ask for better EMOTICONsmile great app keep the good work \xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5'
+		'great app for various things not only for restaurants highly recommend great app for various things not only for restaurants highly recommend its opened up new places top east and great deals that i may have not known about before '
+	1332 reviews, 0.913475975976 avg, 0.000833841802898 min, 0.542639719994 max
+('capital', 'great', 'greater', 'greatest')
+		'i love yelp EXCLAMATION it is the best way to find anything youre looking for EXCLAMATION if youre a local youll still find things and share with people who are new all the great spots you know to keep those great little places in business EXCLAMATION and when youre new to a place find all the great spots from your computer or phone EXCLAMATION looovee love love yelp EXCLAMATION '
+		'great job good job on this app one love had this app for a long time running droidx keep up the great work now its on my gs4 great job'
+		'great app thanks its great has everything i need to find a place couldnt ask for better EMOTICONsmile great app keep the good work \xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5'
+		'great app for various things not only for restaurants highly recommend great app for various things not only for restaurants highly recommend its opened up new places top east and great deals that i may have not known about before '
+	1328 reviews, 0.913780120482 avg, 9.76889382194e-05 min, 0.542639719994 max
+('excellent',)
+		'excellent application excellent application it is a boon to find out almost anything you are looking for '
+		'excellent compare reviews and find out how that place you wanted to go to works even before going there excellent concept '
+		'excellent excellent'
+		'word of mouth from around your area in an app EXCLAMATION yelp has been nothing but great since i first started using it excellent way to share my current location with friends and a wide range of reviews for places around me a consistent app and an excellent service '
+	150 reviews, 0.953333333333 avg, 0.0829713412532 min, 0.0829713412532 max
+('best', 'scoop')
+		'looooove best app good for finding a yummy place to eat on a trip or finding the best of the best in your city '
+		'the best of the best EXCLAMATION just download it dammit yelp is the best'
+		'you have to get this app EXCLAMATION if youre a foodie like me and you need to find a restaurant that satisfies your tastebuds or if youre just looking for the best business for whatever reason this is a must have app EXCLAMATION in my opinion best app ever crested i use it all the tme you have to get this app EXCLAMATION '
+		'best app for finding the best of '
+	271 reviews, 0.960332103321 avg, 0.00169554253555 min, 0.147047059696 max
+('dandy', 'great', 'greater', 'greatest', 'neat')
+		'i love yelp EXCLAMATION it is the best way to find anything youre looking for EXCLAMATION if youre a local youll still find things and share with people who are new all the great spots you know to keep those great little places in business EXCLAMATION and when youre new to a place find all the great spots from your computer or phone EXCLAMATION looovee love love yelp EXCLAMATION '
+		'great job good job on this app one love had this app for a long time running droidx keep up the great work now its on my gs4 great job'
+		'great app thanks its great has everything i need to find a place couldnt ask for better EMOTICONsmile great app keep the good work \xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5'
+		'great app for various things not only for restaurants highly recommend great app for various things not only for restaurants highly recommend its opened up new places top east and great deals that i may have not known about before '
+	1330 reviews, 0.913909774436 avg, 0.000339123282419 min, 0.542639719994 max
+('amazing', 'awesome', 'awesomer', 'awful')
+		'awesome app to find awesome food awesome'
+		'awesome awesome just awesome cant say anything bad works perfectly '
+		'awesome reviews from phone awesome EXCLAMATION i love this great update and im excited to see all new exciting places and share my good bad and ugly experiences EXCLAMATION '
+		'awesome awesome'
+	333 reviews, 0.945945945946 avg, -0.00236481894974 min, 0.156171764504 max
+('easily', 'easy')
+		'easy and fun EXCLAMATION theyve done a good job on this app very fast and easy to use i highly recommend it '
+		'good you can now write reviews from the app its officially 5 stars easily an absolute must have app no questions asked one of my top 5 apps easily great job devs '
+		'easy to use easy to use '
+		'easy to use and very helpful EXCLAMATION very helpful app with good information its also easy to use EXCLAMATION '
+	274 reviews, 0.922445255474 avg, 0.00231389383549 min, 0.130701809632 max
+('desserts', 'sweet')
+		'sweet sweet so far '
+		'sweet'
+		'yulp pretty sweet'
+		'sweet sick'
+	13 reviews, 0.980769230769 avg, 0.000499743744032 min, 0.00842161777668 max
+
+Negative metrics for yelp:
+Average rating: 0.819166666667
+('backing', 'support', 'supporting', 'supports')
+		'yelp EXCLAMATION has joined alec the promoter of stand your ground aka shoot first laws that legalize murder on the basis of racial fear the quality of the product is immaterial if the use of it supports an organization that supports legalized murder on the basis of racial fear it is immoral to support yelp EXCLAMATION while it belongs to alec '
+		'yelp inc supports lots of offensive political groups like alec so i uninstalled rather than support them '
+		'yelp supports alec im uninstalling the app yelp has joined the american legislative exchange council a freedom hating organization which writes and pushes legislation on behalf of corporate interests i can no longer support yelp '
+		'yelp supports alec adios yelp your app was uninstalled this morning because of your support of alec ill use google and facebook from now on if i want relevant reviews '
+	24 reviews, 0.114583333333 avg, -0.0155933424167 min, -0.000943560430294 max
+('useless',)
+		'useless in europe yelp is useless in europe the information is alway wrong and many venues are simply missing on many ocasions i went to some place that suposedly closed at 2am only to find it closed from 11 30pm '
+		'a nice app no longer connects a mobile app that doesnt connect is well it can be useless a recent update has caused this app to fail to connect either using wifi nor my phones mobile data plan unfortunate since it was a useful app 4 stars if it could connect 1 star as long as it cant '
+		'slow to adopt this is probably applicable only in newly added countries i ve been trying to change address of my business for about 3 months upon giving up i checked my yelp map and it found completely different street name useless right now in czech rep '
+		'useless app try tripadvisor or google'
+	21 reviews, 0.142857142857 avg, -0.0151877045277 min, -0.0151877045277 max
+('stupid',)
+		'posting reviews as drafts is stupid write up your review and then its only a draft until you log in on the website to submit stupid '
+		'so stupid EXCLAMATION whats the point of having the app if after i write a review i have to turn around and log on to yelp from my computer to post it anyway incredibly stupid EXCLAMATION 7 6 13 major updates and still cant publish reviews worthless '
+		'used to love it geez whats with everything forcing you to link upload contacts etc with social networking leave me alone EXCLAMATION if i want to then let me choose EXCLAMATION like how about having a different app to download that would link to the regular app that would add the networking features if we want to and giving us the settings for notifications EXCLAMATION an app that goes out of its way to force a battery drain feature stupid business move allwayssearchissues ifineedarestaurant howisabookstorea relaventsearch '
+		'app wont let you review dumb app wont let you review places on the go stupid '
+	12 reviews, 0.145833333333 avg, -0.00880979136521 min, -0.00880979136521 max
+('poor', 'short')
+		'search engine is poor several times ive searched and it ranks the same restaurant in another town before the town that im in also filters could use some beefing up to be practical '
+		'unlike most reviews on yelp i didnt get paid to give it a poor rating this app burns through my battery and locks to gps signals when it shouldnt also my results are always exactly the same no fun edit okay i ate and i now realize this was harsh here have 2 stars people are grumps when hungry EMOTICONwry'
+		'good app but app is awesome but yelp as a review site is very poor and unfair to businesses and consumers'
+		'poor gps implementation makes the app irrelevant the gps implementation is poor and offers me results 10 miles away what is unusual is that the app knows the locations are not nearby as it shows the correct distances from my location '
+	23 reviews, 0.184782608696 avg, -0.015074600033 min, -0.0013143167642 max
+('despicable', 'ugly', 'worthless')
+		'no tablet interface in bed with apple yelp should be ashamed at having such an ugly and unoptimized app out this long does yelp really want apple to have a monopoly it would seem so since the ipad has a tablet interface the number of non apple tablets out there are growing and instead of being proactive this company accepts such low standards for its user interface take a look at fandango to see what a tablet app should look and feel like '
+		'totally worthless cant write reviews at all it saves them to draft and tells me i have to log in to the website instead but there is no draft there so why would i use the app if i have to use the website instead anyway '
+		'wont even let me sign up makes this app worthless'
+		'still worthless cant search more than 5 miles away i live 10 miles from the nearest town so i cant search for anything without driving closer to town filters have to be reset every time you open the app needs a save filters option uninstalled again '
+	12 reviews, 0.208333333333 avg, -0.00804270587181 min, 1.76806875292e-05 max
+('held', 'hold', 'holding', 'support', 'supporting', 'supports')
+		'no landscape support for tablets and no way to turn off gps polling its pretty ridiculous that there still isnt landscape support for tablets after all this time also there should be an option that allows the user to control how location is detected polling the gps kills the battery while the new location services gives a pretty accurate location anyway '
+		'please provide support for more countries id so live this app if i could use it in my current location back in the usa it turned out to be one of my most used apps but now that i travel a lot i cannot enjoy using it please consider my review'
+		'yelp EXCLAMATION has joined alec the promoter of stand your ground aka shoot first laws that legalize murder on the basis of racial fear the quality of the product is immaterial if the use of it supports an organization that supports legalized murder on the basis of racial fear it is immoral to support yelp EXCLAMATION while it belongs to alec '
+		'yelp inc supports lots of offensive political groups like alec so i uninstalled rather than support them '
+	30 reviews, 0.216666666667 avg, -0.0155933424167 min, 0.000323706030168 max
+('confirm', 'confirmed', 'support', 'supporting', 'supports')
+		'no landscape support for tablets and no way to turn off gps polling its pretty ridiculous that there still isnt landscape support for tablets after all this time also there should be an option that allows the user to control how location is detected polling the gps kills the battery while the new location services gives a pretty accurate location anyway '
+		'please provide support for more countries id so live this app if i could use it in my current location back in the usa it turned out to be one of my most used apps but now that i travel a lot i cannot enjoy using it please consider my review'
+		'yelp EXCLAMATION has joined alec the promoter of stand your ground aka shoot first laws that legalize murder on the basis of racial fear the quality of the product is immaterial if the use of it supports an organization that supports legalized murder on the basis of racial fear it is immoral to support yelp EXCLAMATION while it belongs to alec '
+		'yelp inc supports lots of offensive political groups like alec so i uninstalled rather than support them '
+	31 reviews, 0.217741935484 avg, -0.0155933424167 min, -3.25903202246e-05 max
+('positive',)
+		'needs all reviews not all positive reviews show for some reason compared to desktop where you can click on a barley visible link to read them how does yelp make money again you wouldnt happen to charge a business just to let the good stuff show up with the bad to give a real rating would you all reviews should show up like here at the playstore for ratings unedited '
+		'sells the ability to remove negative and accept positive reviews so results are skewed i use google search me than i use yelp for opinions now'
+		'seems biased interesting that negative reviews are filtered and arent displayed only positive ones i guess it pays to advertise '
+		'yelp hides positive reviews yelp reviews are a scam spend a minute googling for yelp hides positive reviews and youll never use this app again total scammers unfortunately '
+	22 reviews, 0.227272727273 avg, -0.0135807175288 min, -0.0135807175288 max
+('realize', 'realized', 'recognize', 'recognized', 'recognizing')
+		'unlike most reviews on yelp i didnt get paid to give it a poor rating this app burns through my battery and locks to gps signals when it shouldnt also my results are always exactly the same no fun edit okay i ate and i now realize this was harsh here have 2 stars people are grumps when hungry EMOTICONwry'
+		'make it useful EXCLAMATION i did some research about yelp and after talking with several business owners i realized there are some secrets people dont know EXCLAMATION it seems you have your specials and the once who pay you better or they do advertising geting a bonus of removing their bad reviews EXCLAMATION wow EXCLAMATION you have to change EXCLAMATION plus why you cant post the reviews from the app you have to write it in the app and then go to the website to post it EXCLAMATION that is ridiculous EXCLAMATION '
+		'dont work for uk trying to sign up from uk but my uk post code zip code is not recognized '
+		'does not recognize my location this app does not recognize saudi arabia on the planet i made sure all my gps and location setting were activated before trying yet no luck '
+	12 reviews, 0.229166666667 avg, -0.00468184055914 min, -8.60009540709e-05 max
+('boot', 'reboot', 'reboots')
+		'decent but causes crash i definitely use this app but i wish the search was better and the way the back functionality works more importantly it makes my phone crash and reboot i thought it was an issue with my custom rom so i never entered it but im on stock now but 4 3 and it still does it anyone else '
+		' opening this app after its been completely closed still reboots my phone EMOTICONwry'
+		'reboots samsung nexus 7 26 still reboots phone EXCLAMATION with latest update causes samsug nexus to reboot help EXCLAMATION '
+		'crashes on my galaxy nexus with the recent update the app crashes on my galaxy nexus android 4 2 2 and reboots my phone once my phone reboots then i can use the app '
+	13 reviews, 0.230769230769 avg, -0.00558715294591 min, 0.000440351828409 max
